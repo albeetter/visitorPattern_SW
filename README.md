@@ -7,7 +7,10 @@ Globe: Provides a data allowance of 10 GB for ₱450 per month. This plan comes 
 Ditto: Offers a data allowance of 8 GB for ₱400 per month. This plan includes unlimited calls and texts to all networks within the country.
 Implement the visitor design pattern based from the given diagram. Refer to this link.  
 
-Test your codes before the given client program:
+# UML Diagram
+<img src="https://github.com/albeetter/visitorPattern_SW/blob/main/VisitorSWDiagram.png" alt="classdiagram">
+
+Test your code before the given client program:
 
 ```public class TelcoPromo {
   public static void main(String[] args) {
